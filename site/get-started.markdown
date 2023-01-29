@@ -16,7 +16,7 @@ Read on to quickly set up your Haskell development environment, execute your fir
     - [Editor](#editor)
   - [Running your first lines of code](#running-your-first-lines-of-code)
   - [Writing your first Haskell program](#writing-your-first-haskell-program)
-  - [Join the community](#join-the-community)
+  - [Participate in the community](#participate-in-the-community)
   - [Next steps](#next-steps)
 
 ## Set up a Haskell development environment
@@ -111,9 +111,9 @@ Hello, everybody!
 Please look at my favorite odd numbers: [11,13,15,17,19]
 ```
 
-## Join the community
+## Participate in the community
 
-By joining the Haskell community you will find a great place to ask for help and learn about new developments in the Haskell ecosystem.
+By participating in the Haskell community you be able to ask for help and learn about new developments in the Haskell ecosystem.
 
 Some of the most popular places to interact with the community are:
 
