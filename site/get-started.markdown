@@ -6,9 +6,7 @@ isGettingStarted: true
 
 # Get started
 
-Welcome, new Haskeller!
-
-Read on to quickly set up your Haskell development environment, execute your first lines of code, and get directions for further learning.
+Welcome, new Haskeller! Read on to quickly set up your Haskell development environment, execute your first lines of code, and get directions for further learning.
 
 ## Content
   - [Set up a Haskell development environment](#set-up-a-haskell-development-environment)
@@ -28,9 +26,7 @@ A complete Haskell development environment consists of the Haskell toolchain (co
 
 ### GHCup: universal installer
 
-[GHCup](https://www.haskell.org/ghcup/#) is a universal installer for Haskell that will install everything you need to program in Haskell, and will help you manage those installations (update, switch versions, ...).
-
-Follow the instructions on the [GHCup webpage](https://www.haskell.org/ghcup/#) to install GHCup. Then use it to install the Haskell toolchain, which consists of:
+[GHCup](https://www.haskell.org/ghcup/#) is a universal installer for Haskell that will install everything you need to program in Haskell, and will help you manage those installations (update, switch versions, ...). Follow the instructions on the [GHCup webpage](https://www.haskell.org/ghcup/#) to install GHCup. Then use it to install the Haskell toolchain, which consists of:
 
 1. **GHC** (The Haskell compiler) We will use GHC below to run our examples, but in practice you will mostly use a tool like Cabal or Stack to build your code, instead of GHC directly.
 2. **HLS** (The Haskell Language Server) You won't use HLS directly, instead your code editor will use it in the background to provide you with a great experience while editing Haskell code.
@@ -46,19 +42,11 @@ Follow the instructions on the [GHCup webpage](https://www.haskell.org/ghcup/#) 
 </div>
 
 ### Editor
-[**Visual Studio Code**](https://code.visualstudio.com/) ([**VSCode**](https://code.visualstudio.com/)) is a popular choice with well-supported Haskell integration. Install the [Haskell extension](https://marketplace.visualstudio.com/items?itemName=haskell.haskell) and you are all set. It should work out of the box and use your installation of HLS.
-
-To learn about support for other editors, check out [HLS docs for editor configuration](https://haskell-language-server.readthedocs.io/en/latest/configuration.html#configuring-your-editor).
+[**Visual Studio Code**](https://code.visualstudio.com/) ([**VSCode**](https://code.visualstudio.com/)) is a popular choice with well-supported Haskell integration. Install the [Haskell extension](https://marketplace.visualstudio.com/items?itemName=haskell.haskell) and you are all set. It should work out of the box and use your installation of HLS. To learn about support for other editors, check out [HLS docs for editor configuration](https://haskell-language-server.readthedocs.io/en/latest/configuration.html#configuring-your-editor).
 
 ## Running your first lines of code
 
-We have everything set up, let's use it!
-
-The Haskell compiler, GHC, comes with an interactive interpreter called GHCi which is great for playing with Haskell and trying things out, so let's give it a spin.
-
-Run `ghci` at your command prompt, which will start a new GHCi prompt for you.
-
-Let's do a simple calculation to check Haskell's computing capabilities:
+We have everything set up, let's use it! The Haskell compiler, GHC, comes with an interactive interpreter called GHCi which is great for playing with Haskell and trying things out, so let's give it a spin. Run `ghci` at your command prompt, which will start a new GHCi prompt for you. Let's do a simple calculation to check Haskell's computing capabilities:
 ```
 > 6 + 3^2 * 4
 42
@@ -81,9 +69,7 @@ Great, you got the first taste of Haskell! Now let's get to running a real progr
 
 ## Writing your first Haskell program
 
-In your editor, create a new file named `hello.hs`.
-
-Write the following in it:
+In your editor, create a new file named `hello.hs`. Write the following in it:
 ```hs
 main = do
   putStrLn "Hello, everybody!"
@@ -113,17 +99,13 @@ Please look at my favorite odd numbers: [11,13,15,17,19]
 
 ## Participate in the community
 
-By participating in the Haskell community you be able to ask for help and learn about new developments in the Haskell ecosystem.
-
-Some of the most popular places to interact with the community are:
+By participating in the Haskell community you be able to ask for help and learn about new developments in the Haskell ecosystem. Some of the most popular places to interact with the community are:
 
  - [Haskell Discourse](https://discourse.haskell.org/)
  - [r/haskell](https://www.reddit.com/r/haskell/)
  - [https://wiki.haskell.org/IRC_channel](https://wiki.haskell.org/IRC_channel)
 
-We recommend joining right now, and don't be shy to ask for help!
-
-Check [https://www.haskell.org/community](https://www.haskell.org/community) for a full list of resources relating to the Haskell community.
+We recommend joining right now, and don't be shy to ask for help! Check [https://www.haskell.org/community](https://www.haskell.org/community) for a full list of resources relating to the Haskell community.
 
 ## Next steps
 
@@ -133,6 +115,4 @@ Popular free learning resources for beginners:
  - [Learn You a Haskell for Great Good!](http://learnyouahaskell.com/) (book)
  - [Learn Haskell by building a blog generator](https://lhbg-book.link) (book)
 
-This is just the tip of the iceberg though: check [Documentation](https://www.haskell.org/documentation/) for a bigger list of learning resources.
-
-That is it, fellow Haskeller! Enjoy learning Haskell, do (not?) be lazy and see you in the community!
+This is just the tip of the iceberg though: check [Documentation](https://www.haskell.org/documentation/) for a bigger list of learning resources. That is it, fellow Haskeller! Enjoy learning Haskell, do (not?) be lazy and see you in the community!
