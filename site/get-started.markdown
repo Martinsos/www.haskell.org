@@ -100,13 +100,6 @@ Please look at my favorite odd numbers: [11,13,15,17,19]
 
 There you go, you just wrote a short, polite program in Haskell!
 
-**TIP**: To interpret the source file directly, without producing any build artifacts, you can use the special `runghc` command like this:
-```
-> runghc hello.hs
-Hello, everybody!
-Please look at my favorite odd numbers: [11,13,15,17,19]
-```
-
 **GHCI TIP**: You can also load your file directly into `ghci`, which will enable you to play with any functions and other definitions you defined in it. So for our example, we can just load `hello.hs` with GHCi and then call the function `main` like this:
 ```
 > ghci hello.hs
