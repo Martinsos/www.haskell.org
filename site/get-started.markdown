@@ -90,7 +90,7 @@ main = do
   putStrLn ("Please look at my favorite odd numbers: " ++ show (filter odd [10..20]))
 ```
 
-You can now compile it with `ghc`, which will produce `hello` binary that we will then run:
+You can now compile it with `ghc` to produce an executable called `hello` that we will then run:
 ```
 > ghc hello.hs
 > ./hello
