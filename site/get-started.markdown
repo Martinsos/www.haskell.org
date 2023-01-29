@@ -115,7 +115,7 @@ Please look at my favorite odd numbers: [11,13,15,17,19]
 
 By joining the Haskell community you will find a great place to ask for help and learn about new developments in the Haskell ecosystem.
 
-Some of the most popular communities are:
+Some of the most popular places to interact with the community are:
 
  - [Haskell Discourse](https://discourse.haskell.org/)
  - [r/haskell](https://www.reddit.com/r/haskell/)
@@ -123,7 +123,7 @@ Some of the most popular communities are:
  
 We recommend joining right now, and don't be shy to ask for help!
 
-Check [https://www.haskell.org/community](https://www.haskell.org/community) for a full list of Haskell communities.
+Check [https://www.haskell.org/community](https://www.haskell.org/community) for a full list of resources relating to the Haskell community.
 
 ## Next steps
 
