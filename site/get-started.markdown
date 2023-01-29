@@ -11,7 +11,7 @@ Welcome, new Haskeller!
 Read on to quickly set up your Haskell development environment, execute your first lines of code, and get directions for further learning.
 
 ## Content
-  - [Set up a Haskell development environment](#set-up-haskell-development-environment)
+  - [Set up a Haskell development environment](#set-up-a-haskell-development-environment)
     - [GHCup: universal installer](#ghcup-universal-installer)
     - [Editor](#editor)
   - [Running your first lines of code](#running-your-first-lines-of-code)
