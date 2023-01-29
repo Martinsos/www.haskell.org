@@ -124,8 +124,8 @@ By joining the Haskell community you will find a great place to ask for help and
 
 Some of the most popular communities are:
 
- - [r/haskell](https://www.reddit.com/r/haskell/)
  - [Haskell Discourse](https://discourse.haskell.org/)
+ - [r/haskell](https://www.reddit.com/r/haskell/)
  - [https://wiki.haskell.org/IRC_channel](https://wiki.haskell.org/IRC_channel)
  
 We recommend joining right now, and don't be shy to ask for help!
