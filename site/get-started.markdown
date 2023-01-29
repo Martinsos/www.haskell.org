@@ -14,7 +14,7 @@ Read on to quickly set up your Haskell development environment, execute your fir
   - [Set up a Haskell development environment](#set-up-haskell-development-environment)
     - [GHCup: universal installer](#ghcup-universal-installer)
     - [Editor](#editor)
-  - [Running first lines of code](#running-first-lines-of-code)
+  - [Running your first lines of code](#running-your-first-lines-of-code)
   - [Writing your first Haskell program](#writing-your-first-haskell-program)
   - [Join the community](#join-the-community)
   - [Next steps](#next-steps)
