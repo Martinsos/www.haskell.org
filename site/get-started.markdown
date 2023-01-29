@@ -23,7 +23,7 @@ Read on to quickly set up your Haskell development environment, execute your fir
 
 A complete Haskell development environment consists of the Haskell toolchain (compiler, language server, build tool) and an editor with good Haskell support. The quickest way to get this set up is to:
 
-1. Use **GHCup** to install and manage Haskell toolchain.
+1. Use **GHCup** to install and manage the Haskell toolchain.
 2. Use [**VSCode**](https://code.visualstudio.com/) as the editor, with the Haskell extension installed.
 
 ### GHCup: universal installer
