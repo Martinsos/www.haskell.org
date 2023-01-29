@@ -140,6 +140,6 @@ Popular free learning resources for beginners:
  - [Learn You a Haskell for Great Good!](http://learnyouahaskell.com/) (book)
  - [Learn Haskell by building a blog generator](https://lhbg-book.link) (book)
 
-This is just the tip of the iceberg though: check [Documentation](https://www.haskell.org/documentation/) for the full list of learning resources.
+This is just the tip of the iceberg though: check [Documentation](https://www.haskell.org/documentation/) for a bigger list of learning resources.
 
 That is it, fellow Haskeller! Enjoy learning Haskell, do (not?) be lazy and see you in the community!
