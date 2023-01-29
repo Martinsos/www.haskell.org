@@ -24,7 +24,7 @@ Read on to quickly set up your Haskell dev environment, execute your first lines
 A complete Haskell dev environment consists of the Haskell toolchain (compiler, language server, build tool) and an editor with good Haskell support. The quickest way to get this set up is to:
 
 1. Use **GHCup** to install and manage Haskell toolchain.
-2. Use **VSCode** as the editor, with the Haskell extension installed.
+2. Use [**VSCode**](https://code.visualstudio.com/) as the editor, with the Haskell extension installed.
 
 ### GHCup: universal installer
 
@@ -46,7 +46,7 @@ Follow the instructions on the [GHCup webpage](https://www.haskell.org/ghcup/#) 
 </div>
 
 ### Editor
-**Visual Studio Code** is a popular choice with well-supported Haskell integration. Install the [Haskell extension](https://marketplace.visualstudio.com/items?itemName=haskell.haskell) and you are all set. It should work out of the box and use your installation of HLS.
+[**Visual Studio Code**](https://code.visualstudio.com/) ([**VSCode**](https://code.visualstudio.com/)) is a popular choice with well-supported Haskell integration. Install the [Haskell extension](https://marketplace.visualstudio.com/items?itemName=haskell.haskell) and you are all set. It should work out of the box and use your installation of HLS.
 
 To learn about support for other editors, check out [HLS docs for editor configuration](https://haskell-language-server.readthedocs.io/en/latest/configuration.html#configuring-your-editor).
 
