@@ -11,7 +11,7 @@ Welcome, new Haskeller!
 Read on to quickly set up your Haskell dev environment, execute your first lines of code, and get directions for further learning.
 
 ## Content
-  - [Set up Haskell dev environment](#set-up-haskell-dev-environment)
+  - [Set up a Haskell dev environment](#set-up-haskell-dev-environment)
     - [GHCup: universal installer](#ghcup-universal-installer)
     - [Editor](#editor)
   - [Running first lines of code](#running-first-lines-of-code)
@@ -19,7 +19,7 @@ Read on to quickly set up your Haskell dev environment, execute your first lines
   - [Join the community](#join-the-community)
   - [Next steps](#next-steps)
 
-## Set up Haskell dev environment
+## Set up a Haskell dev environment
 
 A complete Haskell dev environment consists of the Haskell toolchain (compiler, language server, build tool) and an editor with good Haskell support. The quickest way to get this set up is to:
 
