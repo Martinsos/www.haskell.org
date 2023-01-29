@@ -34,7 +34,7 @@ Follow the instructions on the [GHCup webpage](https://www.haskell.org/ghcup/#) 
 
 1. **GHC** (The Haskell compiler) We will use it below to run our examples, but in practice you will mostly use a tool like Cabal or Stack to build your code, instead of GHC directly.
 2. **HLS** (The Haskell Language Server) You won't use this directly, instead your code editor will use it in the background to provide you with a great experience while editing Haskell code.
-3. **Cabal** (A Haskell build tool) You will use this to structure your Haskell projects, build them, run them, define dependencies, ... .
+3. **Cabal** (A Haskell build tool) You will use Cabal to structure your Haskell projects, build them, run them, define dependencies, ... .
 4. **Stack** (A Haskell build tool) An alternative to Cabal.
 
 
